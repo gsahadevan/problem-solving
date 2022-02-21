@@ -52,5 +52,5 @@ function fill(image, i, j, newColor) {
     fill(image, i, j - 1, newColor, prevColor);
     fill(image, i - 1, j, newColor, prevColor);
 
-    console.log(image);
+    // console.log(image);
 }
